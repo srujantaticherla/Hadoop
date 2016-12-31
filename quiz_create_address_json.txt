@@ -1,1 +1,0 @@
-db.names.save({adress : {street_address : "23 Elm Drive" , city : "Palo Alto" , state : "California", zipcode : "94305"   }})
